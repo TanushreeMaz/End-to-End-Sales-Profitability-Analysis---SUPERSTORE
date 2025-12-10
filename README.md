@@ -23,7 +23,8 @@ The project follows a robust **ETL/ELT pipeline**, validating end-to-end data pr
 | **SQL (PostgreSQL/MySQL)** | **Modeling & Advanced Querying** | Created normalized tables, performed profitability ranking, and executed complex queries for **Transactional Risk Analysis**. |
 | **Power BI** | **Visualization & Reporting** | Designed an interactive dashboard for executive reporting, focusing on regional performance, profit trends, and return metrics. |
 
-** Power BI Dashboard Screenshots**
+
+## 🖼️ Dashboards
 
 1. Overview Analysis:
 Demonstrating a four-year comparative analysis (2014–2017), this project evaluates the business performance of the retail/superstore sector within the United States. 
