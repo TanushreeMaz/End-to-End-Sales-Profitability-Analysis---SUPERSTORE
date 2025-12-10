@@ -47,7 +47,13 @@ A report showed Yearly sales comparison, with regional sales target
 **Repository Structure**
 This structure ensures clear separation of code, data, and deliverables, demonstrating professional organization.
 
+## 🖼️ Final Deliverables & Business Communication
 
+The full project, including all code, SQL scripts, and Power BI files, is contained within this repository.
+
+The **visual presentation** of this analysis, including the full narrative and all slides (1-18), is publicly hosted on LinkedIn.
+
+* **Full Presentation Link (LinkedIn):** 
 
 
 
