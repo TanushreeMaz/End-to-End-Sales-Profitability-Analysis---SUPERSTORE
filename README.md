@@ -53,7 +53,8 @@ The full project, including all code, SQL scripts, and Power BI files, is contai
 
 The **visual presentation** of this analysis, including the full narrative and all slides (1-18), is publicly hosted on LinkedIn.
 
-**Full Presentation Link (LinkedIn):** [https://www.linkedin.com/feed/update/urn:li:activity:7404576495463084032/]
+**Full Presentation Link (LinkedIn):** 
+https://www.linkedin.com/feed/update/urn:li:activity:7404576495463084032/
   
 
 
