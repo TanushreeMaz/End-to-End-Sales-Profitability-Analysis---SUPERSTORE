@@ -31,7 +31,7 @@ The analysis centers on calculating and dissecting profitability at a granular l
 
 <img width="1428" height="802" alt="image" src="https://github.com/user-attachments/assets/314fdb3d-a9bd-428c-93ab-2aee7fff4c12" />
 
-2.Customer & Region Analysis:
+2. Customer & Region Analysis:
 An interactive report detailing regional profit drivers and customer risk hotspots. It benchmarks the profitability of key customer segments against regional sales performance and return rates for targeted strategic action.
 
 <img width="1508" height="799" alt="image" src="https://github.com/user-attachments/assets/99be3d74-d9e0-4608-9295-c0d1fbf66327" />
